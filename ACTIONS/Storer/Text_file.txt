@@ -1,0 +1,13 @@
+ Date "Transaction ID" Description Nature Amount Channel Balance Month
+24 2022-09-02 #SEP01 LIC Debit 300 UPI 164728 September
+25 2022-09-14 #SEP02 "Paid to B" Debit 3500 "NET BANKING" 161228 September
+26 2022-09-27 #SEP03 ATM Debit 5500 ATM 160678 September
+27 2022-10-05 #OCT01 Fuel Debit 200 CARD 160478 October
+28 2022-10-12 #OCT02 "Received From C" Credit 35000 IMPS 215000 October
+29 2022-10-29 #OCT03 Flipkart Debit 2500 CARD 212500 October
+30 2022-11-04 #NOV01 Electricity Debit 290 "NET BANKING" 212210 November
+31 2022-11-13 #NOV02 "Mobile Recharge" Debit 250 UPI 211960 November
+32 2022-11-25 #NOV03 LIC Debit 5000 UPI 206960 November
+33 2022-12-03 #DEC01 ATM Debit 2000 ATM 204960 December
+34 2022-12-18 #DEC02 Fuel Debit 700 CARD 204260 December
+35 2022-12-22 #DEC03 Electricity Debit 200 CARD 204060 December
